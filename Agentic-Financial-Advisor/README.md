@@ -30,31 +30,3 @@ flowchart TD
     D --> E
 '''
 
-🚀 Features
-
-Multi-agent collaboration using CrewAI
-
-Deterministic task chaining with input dependencies
-
-Google Gemini Flash Lite for fast inference
-
-SEBI-compliant investment recommendations
-
-Complete end-to-end advisory report generation
-
-📄 Output
-
-The system produces a 4-section advisory report:
-
-Market trends
-
-Investor risk assessment
-
-Portfolio recommendations
-
-Compliance disclaimers
-
-🔗 Author
-
-Manoj Srivastava
-Director of Engineering | AI/ML & Multi-Agent Systems
