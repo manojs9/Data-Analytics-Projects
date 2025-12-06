@@ -3,16 +3,22 @@
 This project demonstrates how to build a **multi-agent investment advisory workflow** using  
 **CrewAI**, **Google Gemini Flash**, and structured task dependencies.
 
-It generates a complete investment advisory report using 5 domain-specialized agents:
+It generates a complete investment advisory report using **five domain-specialized agents**:
 
-### 👥 Agents
+---
+
+## 👥 Agents
+
 - **Market Analyst** – Analyzes equity, bonds, gold & macro trends  
 - **Risk Specialist** – Evaluates investor risk profile  
 - **Portfolio Engineer** – Designs diversified asset allocation  
 - **Compliance Advisor** – Ensures SEBI-aligned recommendations  
-- **Final Writer** – Produces the finished advisory report  
+- **Final Writer** – Compiles the finished advisory report  
 
-### 🏗 Workflow Architecture
+---
+
+## 🏗 Workflow Architecture
+
 ```mermaid
 flowchart TD
     A[Market Analysis Task] --> C[Portfolio Construction]
@@ -21,7 +27,8 @@ flowchart TD
     A --> E[Final Writer]
     B --> E
     C --> E
-    D --> E'''
+    D --> E
+
 
 🚀 Features
 
