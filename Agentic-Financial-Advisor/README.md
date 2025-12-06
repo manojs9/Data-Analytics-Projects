@@ -17,6 +17,39 @@ It generates a complete investment advisory report using **five domain-specializ
 
 ---
 
+🧩 Features
+
+Multi-agent investment research pipeline
+
+Automated portfolio creation
+
+Market, risk, and compliance integration
+
+AI-generated final advisory report
+
+Built using CrewAI + Google Gemini Flash
+
+---
+
+📄 Output
+
+Generated investment advisory report
+
+Market summary
+
+Risk assessment
+
+Asset allocation
+
+Final recommendations
+
+---
+✍️ Author
+
+Manoj Srivastava
+Director of Engineering | AI & Data Architecture Leader
+
+---
 ## 🏗 Workflow Architecture
 
 ```mermaid
